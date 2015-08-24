@@ -13,3 +13,7 @@ Es un plugin que requiere Jquery 10+, tiene actualmente las siguientes funciones
 
 **********
 Liberación 24/08/2015, favor de comentar los defectos.
+
+Modo de uso agregar la clase el nombre del validalor ejemplo:
+
+<input class="onlyNumber" type="text" />
