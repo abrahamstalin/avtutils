@@ -16,4 +16,6 @@ Liberación 24/08/2015, favor de comentar los defectos.
 
 Modo de uso agregar la clase el nombre del validalor ejemplo:
 
-<input class="onlyNumber" type="text" />
+&lt;input class=&quot;onlyNumber&quot; type=&quot;text&quot; /&gt;
+
+Favor de probarlo y compartir.
